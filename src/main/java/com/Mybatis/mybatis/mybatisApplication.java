@@ -6,7 +6,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 @SpringBootApplication
 public class mybatisApplication {
     public static void main(String[] args) {
-        SpringApplication.run(com.JWT.jwt.JwtApplication.class, args);
+        SpringApplication.run(com.Mybatis.mybatis.mybatisApplication.class, args);
     }
 
 }
